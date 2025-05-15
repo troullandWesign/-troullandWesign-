@@ -1,5 +1,5 @@
 <!-- README.md pour Thomas Roulland -->
-## Bonjour, je suis Thomas Roulland 👋 
+# Bonjour, je suis Thomas Roulland 👋 
 ---
 
 ## À propos de moi
