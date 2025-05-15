@@ -33,6 +33,19 @@
 
 ---
 
+## 🚀 Mes stats chez WesignGit
+
+<p align="left">
+  <!-- Stats publiques de l’orga WesignGit -->
+  <img alt="Stats de l’organisation WesignGit"
+       src="https://github-readme-stats.vercel.app/api?username=WesignGit&show_icons=true&theme=dark" />
+  <!-- Langages les plus utilisés dans l’orga -->
+  <img alt="Top Langs de WesignGit"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesignGit&layout=compact&theme=dark" />
+</p>
+
+---
+
 ## 📊 Mes stats GitHub
 
 <p align="left">
