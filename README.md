@@ -21,12 +21,13 @@
   <img alt="Vue.js"       src="https://cdn.simpleicons.org/vue.js" width="40" height="40"/>
    <img alt="Astro"         src="https://cdn.simpleicons.org/astro" width="40" height="40"/>
   <img alt="Gsap"         src="https://cdn.simpleicons.org/greensock" width="40" height="40"/>
+    <img alt="tailwindcss"       src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40"/>
+    <img alt="CSS3"        src="https://cdn.simpleicons.org/css3" width="40" height="40"/>
+  <img alt="Sass"        src="https://cdn.simpleicons.org/sass" width="40" height="40"/>
    <img alt="Wordpress"         src="https://cdn.simpleicons.org/wordpress" width="40" height="40"/>
    <img alt="Shopify"         src="https://cdn.simpleicons.org/shopify" width="40" height="40"/>
-  <img alt="HTML5"       src="https://cdn.simpleicons.org/html5" width="40" height="40"/>
-  <img alt="CSS3"        src="https://cdn.simpleicons.org/css3" width="40" height="40"/>
-  <img alt="Sass"        src="https://cdn.simpleicons.org/sass" width="40" height="40"/>
   <img alt="Git"         src="https://cdn.simpleicons.org/git" width="40" height="40"/>
+  <img alt="nginx"         src="https://cdn.simpleicons.org/nginx" width="40" height="40"/>
  
 </p>
 
