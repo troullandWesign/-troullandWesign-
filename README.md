@@ -17,7 +17,7 @@
 
 ## 💻 Tech & Outils
 <p align="left">
-  <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript/white" width="40" height="40"/>
+  <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript" width="40" height="40"/>
   <img alt="TypeScript"  src="https://cdn.simpleicons.org/typescript/white" width="40" height="40"/>
   <img alt="React"       src="https://cdn.simpleicons.org/react/white" width="40" height="40"/>
   <img alt="Vue.js"       src="https://cdn.simpleicons.org/vue.js/white" width="40" height="40"/>
