@@ -18,13 +18,16 @@
 ## 💻 Tech & Outils
 <p align="left">
   <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript" width="40" height="40"/>
-  <img alt="TypeScript"  src="https://cdn.simpleicons.org/typescript/white" width="40" height="40"/>
-  <img alt="React"       src="https://cdn.simpleicons.org/react/white" width="40" height="40"/>
-  <img alt="Vue.js"       src="https://cdn.simpleicons.org/vue.js/white" width="40" height="40"/>
-  <img alt="HTML5"       src="https://cdn.simpleicons.org/html5/white" width="40" height="40"/>
-  <img alt="CSS3"        src="https://cdn.simpleicons.org/css3/white" width="40" height="40"/>
-  <img alt="Sass"        src="https://cdn.simpleicons.org/sass/white" width="40" height="40"/>
-  <img alt="Git"         src="https://cdn.simpleicons.org/git/white" width="40" height="40"/>
+  <img alt="Vue.js"       src="https://cdn.simpleicons.org/vue.js" width="40" height="40"/>
+   <img alt="Astro"         src="https://cdn.simpleicons.org/astro" width="40" height="40"/>
+  <img alt="Gsap"         src="https://cdn.simpleicons.org/gsap" width="40" height="40"/>
+   <img alt="Wordpress"         src="https://cdn.simpleicons.org/wordpress" width="40" height="40"/>
+   <img alt="Shopify"         src="https://cdn.simpleicons.org/shopify" width="40" height="40"/>
+  <img alt="HTML5"       src="https://cdn.simpleicons.org/html5" width="40" height="40"/>
+  <img alt="CSS3"        src="https://cdn.simpleicons.org/css3" width="40" height="40"/>
+  <img alt="Sass"        src="https://cdn.simpleicons.org/sass" width="40" height="40"/>
+  <img alt="Git"         src="https://cdn.simpleicons.org/git" width="40" height="40"/>
+ 
 </p>
 
 ---
