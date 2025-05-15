@@ -1,8 +1,5 @@
 <!-- README.md pour Thomas Roulland -->
-# 👋 Bonjour, je suis Thomas Roulland
-
-![Profile Views](https://komarev.com/ghpvc/?username=troullandwesign&color=blue)
-
+## Bonjour, je suis Thomas Roulland 👋 
 ---
 
 ## À propos de moi
