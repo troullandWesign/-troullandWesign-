@@ -1,0 +1,42 @@
+name: 🔢 Générer badge commits WesignGit
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # chaque jour à 6h (UTC)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Installer GitHub CLI
+        uses: cli/cli-action@v2
+
+      - name: Compter mes commits dans l’orga
+        id: count
+        run: |
+          COUNT=$(gh api \
+            /search/commits \
+            -H "Accept: application/vnd.github.cloak-preview" \
+            -f q="author:troullandwesign org:WesignGit" \
+            --jq .total_count)
+          echo "commits=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Générer le badge
+        id: badge
+        run: |
+          URL="https://img.shields.io/badge/mes_commits_WesignGit-${{ steps.count.outputs.commits }}-blue"
+          echo "badge_md=![Mes commits chez WesignGit](${URL})" >> $GITHUB_OUTPUT
+
+      - name: Mettre à jour le README
+        run: |
+          # remplace la ligne repère par le markdown du badge
+          sed -i '/<!-- ORG_COMMITS_BADGE -->/c\${{ steps.badge.outputs.badge_md }}' README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: mise à jour badge commits WesignGit" || echo "Rien à mettre à jour"
+          git push
