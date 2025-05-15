@@ -1,6 +1,9 @@
 <!-- README.md pour Thomas Roulland -->
-#<p align="center">Bonjour, je suis Thomas Roulland 👋 </p>
+<div align="center">
+  <h1>Bonjour, je suis Thomas Roulland 👋</h1>
+</div>
 
+#
 <p align="center">
   <img src="./giphy.gif" alt="GIF de bienvenue" width="300"/>
 </p>
